@@ -58,7 +58,7 @@ The **Customer Data Management and Analysis** project successfully transforms fe
 ---
 
 ## 🖋️ Contributors
-- Hassan Anwar (Team Leader)
+- Hassan Anwar 
 - Omar Elzininy
 - Abdelhamid Mahmoud 
 - Anas Ahmed
